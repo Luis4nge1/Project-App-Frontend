@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448497331806",
+    "project_id": "kotlyn-delivery",
+    "storage_bucket": "kotlyn-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448497331806:android:fe544c6bd014ddcb518ecf",
+        "android_client_info": {
+          "package_name": "com.optic.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMrCZEX2OFbocg9Ui4aL86Td15tZboT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
